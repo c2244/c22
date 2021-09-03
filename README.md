@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clarabuck28
-- 👀 I’m interested in machine learning, software engineering, and graph theory (network sceince)
+- 👀 I’m interested in machine learning, software engineering, and network science
 - 🌱 I’m currently looking for opportunities in bioinformatics and medical informatics
 - 📫 How to reach me: clara.buck28 at gmail dot com
 
